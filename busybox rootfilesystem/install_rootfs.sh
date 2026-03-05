@@ -2,6 +2,8 @@
 
 echo "building the tiny rootfilesystem static"
 export PATH=~/x-tools/arm-unknown-linux-gnueabi/bin:$PATH
+export ARCH=arm
+export CROSS_COMPILE=arm-unknown-linux-gnueabi-
 make clean 
 
 cp busyboxconfig ./.config
